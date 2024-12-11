@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/FrameAzul"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#93C6F0"
+    android:textAlignment="center"
+    tools:context=".Azul">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/TextViewAzul"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/soy_azul"
+        android:textAlignment="center" />
+
+</FrameLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/FrameRojo"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F49A92"
+    android:textAlignment="center"
+    tools:context=".Rojo">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/TextViewRojo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/soy_rojo"
+        android:textAlignment="center"
+        android:textColor="#424242" />
+
+</FrameLayout>

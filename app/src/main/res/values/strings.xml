@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavegacionFragments</string>
+    <string name="color_azul">Color Azul</string>
+    <string name="color_rojo">Color Rojo</string>
+    <string name="color_verde">Color Verde</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="soy_azul">Soy Azul</string>
+    <string name="soy_rojo">Soy Rojo</string>
+    <string name="soy_verde">Soy Verde</string>
+</resources>
